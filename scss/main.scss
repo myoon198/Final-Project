@@ -59,6 +59,10 @@ section{
     align-items: center;
     z-index: 100;
     position: absolute;
+    &:hover{
+      color: #ffceff;
+      transition: all 0.3s ease;
+    }
 
 	}
 
@@ -67,6 +71,11 @@ section{
     font-size: 50px;
     z-index: 100;
     position: absolute;
+    &:hover{
+      color: #ffceff;
+      transition: all 0.3s ease;
+    }
+
 	}
 
 	.fa-instagram {
@@ -74,6 +83,11 @@ section{
     font-size: 50px;
     z-index: 100;
     position: absolute;
+    &:hover{
+      color: #ffceff;
+      transition: all 0.3s ease;
+    }
+
 	}
 
 	.fa-dribbble {
@@ -81,6 +95,11 @@ section{
     font-size: 45px;
     z-index: 100;
     position: absolute;
+    &:hover{
+      color: #ffceff;
+      transition: all 0.3s ease;
+    }
+
 	}
 }
 
